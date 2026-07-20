@@ -1,4 +1,9 @@
-# DS
+> [!CAUTION]
+> `github.com/ecnepsnai/df` is deprecated and replaced by [git.ecn.io/ian/df](https://git.ecn.io/ian/df).
+> All users should migrate to `git.ecn.io/ian/df` for continued updates. Tag v1.0.0 is drop-in compatible copy of the
+> last release of `github.com/ecnepsnai/df`.
+
+# DF
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/ecnepsnai/df?style=flat-square)](https://goreportcard.com/report/github.com/ecnepsnai/df)
 [![Godoc](https://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/ecnepsnai/df)

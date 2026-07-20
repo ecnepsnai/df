@@ -1,6 +1,10 @@
 /*
 Package df provides a way to getting disk usage and capacity information for a provided
 file path. It currently only supports UNIX-like operating systems.
+
+Deprecated: github.com/ecnepsnai/df is deprecated and replaced by git.ecn.io/ian/df. All users should migrate to
+git.ecn.io/ian/df for continued updates. Tag v1.0.0 is drop-in compatible copy of the last release of
+github.com/ecnepsnai/df.
 */
 package df
 
